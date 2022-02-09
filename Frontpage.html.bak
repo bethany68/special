@@ -1,0 +1,63 @@
+ <!doctype html>
+  
+ <html>
+   <head>
+	 <title> Krishanteau's Website </title>
+		<meta name ="Author" content = " Krishanteau Daley" > </meta>
+		<meta name = "viewport" content = "width=device-width initial-scale = 1"/>
+		<meta charset = "UTF-8"/>
+		<meta name = "keywords" content= "hobbies,development,professional,personal,traits"/>
+ </head>
+ 
+ <body style ="background:url('../Assets/yellowred.jpg')">
+ <header>
+		<hr/>
+		<h1 style = 'color:yellow '> FANCY SEEING YOU HERE  </h1> 
+		<i class="fas fa-smile-wink"> </i>
+		<hr/>
+	  </header>
+ <br/>
+  <h3 style='color:yellow' > <i> I HAVE SOMETHING FOR YOU </i>  </h3> 
+  <a href='#gift'> Go down to get it  </a>
+  <hr/>
+  <section>
+  <center>
+	<table border='1' cellpadding='20' cellspacing='5' width= 98% style= 'background-color:yellow'>
+	<tr>
+		<td colspan='4'> <h2 style= 'text-align:center'>KRISHANTEAU S. DALEY </h2></td>
+	</tr>
+	<tr>
+	  <td> MS.DALEY <img src= '../Assets/photo1.jpg' width= '350' height = '300'> </img> </td>
+	  <td colspan='3' rowspan='2'> <i> A blooming flower </i>
+	   <img src= '../Assets/pic2.jpg'width='800' height='500'>
+	   </td>
+	</tr>
+	<tr>
+	  <td rowspan='2'> <img src= '../Assets/welcome.jpg' width= '360' height = '310'> </img> </td>
+	</tr>
+	<tr>
+	  <td> <a href = 'page2.html'> PERSONAL PAGE </a> </td>
+	  <td> <a href = '../../Week 2/lab2as.html'> PROFESSIONAL PAGE  </a> </td>
+	  <td> Click the pic to email me <a href='../Assets/photo2.jpg' width = '150' height='100'> 
+	  <a href='mailto:shanteau64@gmail.com?cc=krishanteaudaley@gmail.com&subject=Welcome%20to%20my%20first%20website'> 
+	  <img src='../Assets/photo2.jpg' style = 'float: right; margin-right 'width = '150' height='100'> </a> </td>
+	</tr>
+	</table>
+      </center>
+ <h3 id = 'gift' >SOMETHING FOR YOU </h3> <p> I often read self love poems because they <strong> open up your minds </strong> and let you feel your worth 
+ pouring out of you.<br/> Times are so drastic and depressing it is best to enjoy your own company at times, when you can.<br/> </p>
+I always remind myself to accept my emotions for what they are and to putting my emotional, mental wellbeing at first at all times.
+ <br/>And i love myself even more<br/>
+<b>It worked for me , maybe it can work for you too.</b> 
+<p> <a href ="https://hellopoetry.com/tag/self-reflection/"> <h3> GIVE IT A TRY </h3> </a> </p>
+  </section>
+  <br/> <br/><br/>
+  
+  <footer>
+	<hr size='2'/>
+	<h5 style= 'text-align: right'> Copyright &copy; Krishanteau Daley - January 2022.</h5>
+	<hr size='2'/>
+  </footer>
+ </body>
+ </html>
+	

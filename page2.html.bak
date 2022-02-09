@@ -1,0 +1,67 @@
+ <!doctype html>
+  
+ <html>
+   <head>
+	 <title> Krishanteau's Website </title>
+		<meta name ="Author" content = " Krishanteau Daley" > </meta>
+		<meta name = "viewport" content = "width=device-width initial-scale = 1"/>
+		<meta charset = "UTF-8"/>
+		<meta name = "keywords" content= "hobbies,development,professional,personal,traits"/>
+ </head>
+ 
+ <body style ="background:url('../Assets/yellowred.jpg')">
+ <header>
+		<hr/>
+		<h1 style = 'color:yellow '> FANCY SEEING YOU HERE  </h1> 
+		<hr/>
+	  </header>
+	  <header> 
+	 <hr/>
+	 <h1 style = 'color:yellow'> My Personal Life
+	 <hr/>
+	  </header>
+	   <section>
+	   <center>
+	   <h2 style = 'color:yellow'> A QUOTE I LIVE UP TO </h2>
+	   <img src='../Assets/quote.jpg' width='450' height='380'> </img>
+	   </center>
+	    
+	<h3> <b> SHOWCASING TRAITS (Likes) </h3> 
+	<ul type = 'square'>
+	<li> Chicken Wings </li>
+	<li> Visiting new restaurants </li>
+	<li> Travelling </li> </b>
+	
+	<img src ='../Assets/wing.jpg' width='150' height='100'> </img>
+	
+	<h3> <b> SHOWCASING TRAITS (Dislikes)  </h3> 
+	<ul type = 'circles'>
+	<li> Bikers </li>
+	<li> Cooked Breadfruit </li>
+	<li> Sickness  </li> </b>
+	
+	<img src ='../Assets/plane.jpg' width='150' height='100'> </img>
+	
+	<h3> <b> SHOWCASING TRAITS (Hobbies)  </h3> 
+	<ul type = 'disc'>
+	<li> Travelling </li>
+	<li> Reading </li>
+	<li> Watching Netflix  </li> </b>
+	
+	
+	  
+	  
+	  
+	  
+	  
+	  
+	   </section>
+  <br/> <br/><br/>
+  <footer>
+	<hr size='2'/>
+	<h5 style= 'text-align: right'> Copyright &copy; Krishanteau Daley - January 2022.</h5>
+	<hr size='2'/>
+  </footer>
+ </body>
+ </html>
+	

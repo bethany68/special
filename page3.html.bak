@@ -1,0 +1,34 @@
+ <!doctype html>
+  
+ <html>
+   <head>
+	 <title> Krishanteau's Website </title>
+		<meta name ="Author" content = " Krishanteau Daley" > </meta>
+		<meta name = "viewport" content = "width=device-width initial-scale = 1"/>
+		<meta charset = "UTF-8"/>
+		<meta name = "keywords" content= "hobbies,development,professional,personal,traits"/>
+ </head>
+ 
+ <body style ="background:url('../Assets/yellowred.jpg')">
+ <header>
+		<hr/>
+		<h1 style = 'color:yellow '> FANCY SEEING YOU HERE  </h1> 
+		<hr/>
+	  </header>
+	  <header> 
+	 <hr/>
+	 <h2 style = 'color:yellow'> Professional Page </h2>
+	 <br/><br/>
+	 
+	 <h3> Vision Statement </h3>
+	 For the future , without a doubt i will be <strong> mentally,emotionally & spiritually </strong> <br/>
+	 focused on my journey to being a Database Anaylyst.
+	 
+	 <h3> Mission Statement </h3>
+	 On the path that i'm currently on , there are no room for mistakes .It is done only once <br/>
+	 and it must be done perfectly.
+	  
+	  <h4> RESUME </h4>
+	  <img src='../Assets/resume1.png' width='500' height='510'> </img>
+	  <img src='../Assets/resume2.png' width='500' height='510'> </img>
+	 
